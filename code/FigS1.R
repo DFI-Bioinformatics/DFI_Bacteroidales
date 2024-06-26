@@ -29,5 +29,5 @@ t %>%
         legend.position="none") +
   scale_y_continuous(expand = c(0.005,0.005))
 
-ggsave("data/FigS1.donor_barplot.pdf", width = 8.15, height = 5)
+ggsave("results/FigS1.donor_barplot.pdf", width = 8.15, height = 5)
 
