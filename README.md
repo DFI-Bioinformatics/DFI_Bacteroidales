@@ -1,7 +1,6 @@
 # Data Repo for Bactoridales paper at DFI
-Comprehensive analyses of a large human gut Bacteroidales culture collection reveal species and strain level diversity and evolution
 
-[![DOI](https://zenodo.org/badge/599315752.svg)](https://zenodo.org/badge/latestdoi/599315752)
+Title: Comprehensive analyses of a large human gut Bacteroidales culture collection reveal species and strain level diversity and evolution
 
 ## Folder structure
 
