@@ -18,6 +18,7 @@ tax <- read_csv("data/genome.size.csv") %>%
   select(msk_id, genus, species, type)
 
 gcl.mat <- read_csv("data/Anvio_geneCluster.matrix.csv") %>% 
+  column_to_rownames(var = "msk_id") %>% 
   as.matrix()
 
 # umap settings -----------------------------------------------------------
@@ -25,6 +26,7 @@ gcl.mat <- read_csv("data/Anvio_geneCluster.matrix.csv") %>%
 custom.config <- umap.defaults
 custom.config$n_neighbors <- 70
 
+# random seed affect how UMAP looks
 random.stats <- sample(10000, 10)
 
 # Fig 3 -------------------------------------------------------------------
@@ -87,6 +89,8 @@ for (ri in random.stats){
 }
 
 
+# Fig S4 ------------------------------------------------------------------
+
 ## family/genus level sub-UMAP --------------------------------------------------
 
 sub.genus <- list("Alistipes" = "Alistipes",
@@ -116,24 +120,10 @@ for (ri in random.stats){
       filter(genus %in% tar.genus) %>% 
       pull(msk_id)
     
-    gcl.mat.tmp <- gcl.org %>% 
-      ungroup() %>%
-      filter(msk_id %in% tar.msk) %>% 
-      count(msk_id, gene_cluster_id) %>% 
-      spread(gene_cluster_id, n, fill = 0) %>% 
-      column_to_rownames(var = "msk_id") %>% 
-      as.matrix()
+    gcl.mat.tmp <- gcl.mat[rownames(gcl.mat) %in% tar.msk,]
+    gcl.mat.tmp <- gcl.mat.tmp[,colSums(gcl.mat.tmp) != 0]
     
     dim(gcl.mat.tmp)
-    
-    # get count of non-ubiquitous genes
-    nuc <- gcl.org %>% 
-      filter(msk_id %in% tar.msk) %>%
-      ungroup() %>% 
-      distinct(genome_name, gene_cluster_id) %>% 
-      dplyr::count(gene_cluster_id) %>%
-      summarise(num = sum(n!=nrow(gcl.mat.tmp))) %>%
-      `$`(num)
     
     custom.config$n_neighbors <- ceiling(nrow(gcl.mat.tmp) * 0.45)
     
@@ -181,7 +171,7 @@ for (ri in random.stats){
           strip.background = element_blank(),
           strip.text.x = element_text(face = "bold.italic", size = 13))
   
-  ggsave(paste0("FigS4.sub-umap.",ri,".pdf"), height=8.15,width=11.75)
+  ggsave(paste0("results/FigS4.sub-umap.",ri,".pdf"), height=8.15,width=11.75)
   
   # write_csv(ri.tmp.df, paste0("./rds/sub-umap.coord.",ri,".csv"))
   
