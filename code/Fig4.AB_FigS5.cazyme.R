@@ -1,11 +1,14 @@
-setwd("~/Library/CloudStorage/Box-Box/Jerrys_paper_062024/EddiAnalysis/")
+# Figure 4. CAZyme and PUL analyses of Bacteroidales isolates.  
+# Figure S5. Additional CAZyme and PUL analyses of Bacteroidales isolates.  
 
-### parse hmm results from Mike's hmmsearch result with cazyme V12
+### parse hmm results from hmmsearch result with cazyme V12
 
 library(tidyverse)
 
-## read in from Mikes result ------------------------------------
-new.dbcan <- read_tsv("../MikeNewData/new_output_from_CAZyme_hmmsearch.txt",
+# script setup ------------------------------------------------------------
+
+## read in hmm output ------------------------------------
+new.dbcan <- read_tsv("data/new_output_from_CAZyme_hmmsearch.txt",
                       comment = "#", col_names = F)  %>%
   separate(X1, c("target","tacc","locus_tag", "qacc", "seq_evalue","seq_score",
                  "seq_bias","dom_evalue","dom_score","dom_bias",
@@ -33,15 +36,18 @@ filtered.dbcan <- new.dbcan %>%
   select(target, locus_tag, seq_evalue) %>%
   ungroup()
 
+# switch column names from hmmscan
 colnames(filtered.dbcan) <- colnames(filtered.dbcan)[c(2,1,3)]
 
-# find old color palette and isolate meta sheet ---------------------------
+## find old color palette and isolate meta sheet ---------------------------
 
-genome.size <- read_csv("../../sharedResults/Bacteroidetes/iso127/genome.size.csv")
+genome.size <- read_csv("data/genome.size.csv")
 
-anno <- readRDS("../../sharedResults/Bacteroidetes/iso127/rds/illumina_typeStrain.prokka.rds")
+anno <- readRDS("data/illumina_typeStrain.prokka.rds")
 
-taxpal <- readRDS("../../sharedResults/Bacteroidetes/iso127/rds/sppal.extended.rds")
+taxpal <- readRDS("data/sppal.extended.rds")
+
+## cazyme family -----------------------------------------------------------
 
 cazymecat <- tibble(cazyfamily = c("AA","CBM","CE","GH","GT","PL","SLH"),
                     cazyname = c("Auxiliary Activities","Carbohydrate-Binding Modules",
@@ -67,7 +73,7 @@ dbcount %>%
               values_from = n,
               values_fn = sum, values_fill = 0) %>% 
   arrange(species) %>% 
-  write_csv("parsed.CAZyme_hmmsearch.count.csv")
+  write_csv("data/parsed.CAZyme_hmmsearch.count.csv")
 
 dbcount %>% 
   select(-cazy) %>% 
@@ -76,7 +82,7 @@ dbcount %>%
               values_from = n,
               values_fn = sum, values_fill = 0) %>% 
   arrange(species) %>% 
-  write_csv("parsed.CAZyme_hmmsearch.unique.csv")
+  write_csv("data/parsed.CAZyme_hmmsearch.unique.csv")
 
 genome.size %>% 
   anti_join(dbcount %>% distinct(msk_id))
@@ -87,7 +93,7 @@ dbcount %>%
   arrange(species) %>% 
   view
 
-# plot --------------------------------------------------------------------
+# Figure 4 A CAZyme numbers ---------------------------------------------------
 
 my.cazy <- c("Glycoside Hydrolases", 
              "Polysaccharide Lyases", 
@@ -123,9 +129,10 @@ dbpltdf %>%
         axis.title = element_text(size = 13, face = "bold"))+
   scale_x_continuous(breaks= scales::pretty_breaks())
 
-ggsave(paste0("FigS5.A.cazyme.summary.",
-              gsub("-","",lubridate::today()),
+ggsave(paste0("results/Fig4_A.cazyme.summary",
               ".pdf"), width = 12.5, height = 6.5)
+
+# Fig S5 B  unique number of cazymes --------------------------------------
 
 # number of unique cazymes
 dbcount %>% 
@@ -152,11 +159,12 @@ dbcount %>%
         axis.title = element_text(size = 13, face = "bold")) +
   scale_x_continuous(breaks= scales::pretty_breaks())
 
-ggsave(paste0("FigS5.B.cazyme.unique.summary.",
-              gsub("-","",lubridate::today()),
+ggsave(paste0("results/FigS5_B.cazyme.unique.summary",
               ".pdf"), width = 12.5, height = 6.5)
 
-# 2024.6.13: cazyme inverse simpson ---------------------------------------
+# Fig 5S A inverse simpson ------------------------------------------------
+
+## cazyme inverse simpson ---------------------------------------
 
 dbmat <- dbcount %>% 
   select(msk_id, cazy, n ) %>% 
@@ -201,11 +209,10 @@ dbcantop.df %>%
                            bg.r = 0.05, size = 3.15) +
   scale_color_manual(values = taxpal)
 
-ggsave(paste0("Fig4.A.cazyme.invSimp.rmline.",
-              gsub("-","",lubridate::today()),
+ggsave(paste0("results/FigS5_A.cazyme.invSimp.rmline",
               ".pdf"), width = 6.5, height = 5.8)
 
-# umap --------------------------------------------------------------------
+# umap of cazyme -------------------------------------------------
 
 library(umap)
 
@@ -214,26 +221,20 @@ custom.config$n_neighbors <- 85
 
 random.stats <- sample(10000, 10)
 
-ri = 6215
-
-# color by donor ----------------------------------------------------------
-
-library(yingtools2)
-
-donor.df <- read_csv("../../sharedResults/Bacteroidetes/iso127/Bacteroidales.127.representative.name.list.csv") %>% 
-  distinct(community) %>% 
-  separate(community, c("prefix","num"), convert = T, remove = F) %>% 
-  mutate(donor_id = if_else(prefix == "MSK",
-                            paste0("FC",formatC(num, width = 4, flag = "0")),
-                            paste0(prefix,formatC(num, width = 4, flag = "0")))) %>% 
-  arrange(donor_id) %>% 
-  mutate(community = gsub("_","\\.", community))
+# get donor code
+donor.df <- read_csv("data/donor.16S.csv") %>% 
+  distinct(donor_id, new_id) %>% 
+  mutate(community = case_when(
+    grepl("^FC", donor_id) ~ paste0("MSK.",gsub("FC0+","",donor_id)),
+    grepl("^DFI", donor_id) ~ gsub("0+",".",donor_id),
+    TRUE ~ "Type Strain"
+  ))
 
 ## loop over random state: --------------------------------------------------
 
 for (ri in random.stats){
   
-  custom.config$random_state <- ri # new on 2024.6.13
+  custom.config$random_state <- ri 
   
   clus1 <- umap(dbmat,config = custom.config)
   
@@ -242,11 +243,7 @@ for (ri in random.stats){
     mutate(msk_id=row.names(.)) %>%
     left_join(genome.size)
   
-  # write_csv(uplt1, "rds/cazyme.umap.coord.csv")
-  
-  # restart -----------------------------------------------------------------
-  
-  # uplt1 <- read_csv("rds/cazyme.umap.coord.csv")
+  ## Fig 4 B: color by species ----------------------------------------------------------
   
   ggumapp1 <- uplt1 %>%
     ggplot(aes(x=V1,y=V2,label = msk_id)) +
@@ -276,9 +273,6 @@ for (ri in random.stats){
   
   ggumapp1
   
-  # interactive plotly
-  # plotly::ggplotly(ggumapp1)
-  
   ggumapp1 <- ggumapp1 + 
     coord_cartesian(xlim = c(min(uplt1$V1)-1.45, max(uplt1$V1) + 0.25), 
                     ylim = c(min(uplt1$V2)-1.45, max(uplt1$V2) + 0.25))
@@ -299,17 +293,15 @@ for (ri in random.stats){
   # cowplot::get_legend(legendgg)
   ggpubr::ggarrange(ggumapp1, splegend, widths = c(2.15, 1.3))
   
-  ggsave(paste0("Fig4.B.umap_cazyme.bySpecies.",
-                gsub("-","",lubridate::today()),".",ri,".pdf"), height=6.75,width=10.25)
+  ggsave(paste0("results/Fig4_B.umap_cazyme.bySpecies",
+                ".",ri,".pdf"), height=6.75,width=10.25)
+  
+  ## Fig S5 C: color by donor ----------------------------------------------------------
   
   uplt2 <- uplt1 %>% 
     mutate(community = gsub("\\.[0-9]+[A-Z]?$","",msk_id)) %>% 
-    left_join(donor.df %>% 
-                select(community, donor_id)) %>% 
-    mutate(new_id = recode2(donor_id,recodes=c("FC000[78]"="FC0007+8",
-                                               "FC001[45]"="FC0014+15",
-                                               "FC002[23]"="FC0022+23"),regexp = T),
-           new_id = if_else(is.na(new_id), type, new_id)) 
+    left_join(donor.df) %>% 
+    mutate(new_id = if_else(is.na(new_id),"Type Strain", new_id))
   
   donor_list <- unique(uplt2$new_id)
   
@@ -350,8 +342,8 @@ for (ri in random.stats){
   # cowplot::get_legend(legendgg)
   ggpubr::ggarrange(ggumapp2, splegend, widths = c(2.55, 0.65))
   
-  ggsave(paste0("Fig4.C.umap_cazyme.byDonor.",ri,".",
-                gsub("-","",lubridate::today()),".pdf"), height=6.75,width=8.75)
+  ggsave(paste0("results/FigS5_C.umap_cazyme.byDonor.",ri,".",
+                ".pdf"), height=6.75,width=8.75)
 }
 
 
