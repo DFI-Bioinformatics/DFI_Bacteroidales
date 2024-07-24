@@ -57,7 +57,7 @@ gene_cluster_table <- gene_cluster_table %>%
   mutate(level = word(level, sep = ",", start = 1)) %>% 
   filter(cluster_presence > 0) %>% 
   mutate(genus_species = paste0(genus, " ", species)) %>% 
-  group_by(genome_name, genus_species, phylum, class, order, family, genus, species, strain, msk_id, level, cohort, label) %>% 
+  group_by(genome, genus_species, phylum, class, order, family, genus, species, strain, msk_id, level, type, label) %>% 
   summarize(cluster_count = sum(cluster_presence))
 
 
@@ -66,13 +66,13 @@ custom_color <- c("#1EB800", "#4F8FE6", "#A93400", "#2619D1", "#FFAB00", "#00CF9
 
 gg <- gene_cluster_table %>% 
   mutate(level = str_to_title(level)) %>% 
-  arrange(cohort, genome_name) %>% 
+  arrange(type, genome) %>% 
   mutate(label = factor(label, levels = unique(.$label))) %>% 
   mutate(level = factor(level, levels = c("Strain", "Species", "Genus", "Family", "Order"))) %>%
-  mutate(cohort = factor(cohort, levels = c("Biobank", "Type Strain"))) %>% 
+  mutate(type = factor(type, levels = c("Biobank", "Type Strain"))) %>% 
   ggplot(aes(x = label, y = cluster_count)) +
   geom_bar(aes(fill=level), stat="identity") +
-  geom_point(aes(x= label, y = 5500, shape = cohort, color = cohort), size = 3) +
+  geom_point(aes(x= label, y = 5500, shape = type, color = type), size = 3) +
   scale_y_continuous(breaks=c(0,1000,2000,3000,4000, 5000)) +
   facet_grid(. ~ family+genus_species, scales = "free",space = "free") +
   ylab("# of Gene Clusters") +
@@ -82,11 +82,11 @@ gg <- gene_cluster_table %>%
   guides(fill = guide_legend(title = "Taxonomy Level:",
                              keywidth = unit(1, "cm"),
                              keyheight = unit(1, "cm")), 
-         color = guide_legend(title = "Cohort:",
+         color = guide_legend(title = "type:",
                               override.aes = list(size=7),
                               keywidth = unit(1, "cm"),
                               keyheight = unit(1, "cm")),
-         shape = guide_legend(title = "Cohort:",
+         shape = guide_legend(title = "type:",
                               keywidth = unit(1, "cm"),
                               keyheight = unit(1, "cm"))) +
   theme_bw() +

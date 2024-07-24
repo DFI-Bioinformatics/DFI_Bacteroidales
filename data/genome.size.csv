@@ -28,12 +28,12 @@ Phocaeicola_coprocola,Phocaeicola coprocola DSM17136,Bacteroidota,Bacteroidia,Ba
 Phocaeicola_dorei,Phocaeicola dorei DSM17855,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,DSM17855,5625488,42.1,Phocaeicola_dorei_DSM17855,Type Strain,DSM17855
 Phocaeicola_massiliensis,Phocaeicola massiliensis B84634,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola massiliensis,B84634,4646209,41.9,Phocaeicola_massiliensis_B84634,Type Strain,B84634
 Phocaeicola_vulgatus,Phocaeicola vulgatus ATCC8482,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,ATCC8482,5163189,42.2,Phocaeicola_vulgatus_ATCC8482,Type Strain,ATCC8482
-Prevotella_buccalis,Prevotella buccalis ATCC35310,NA,NA,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,NA,3033961,45.3,Prevotella_buccalis_ATCC35310,Type Strain,NA
-Prevotella_copri,Prevotella copri DSM18205,NA,NA,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,NA,3512473,44.8,Prevotella_copri_DSM18205,Type Strain,NA
+Prevotella_buccalis,Prevotella buccalis ATCC35310,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,ATCC35310,3033961,45.3,Prevotella_buccalis_ATCC35310,Type Strain,ATCC35310
+Prevotella_copri,Prevotella copri DSM18205,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,DSM18205,3512473,44.8,Prevotella_copri_DSM18205,Type Strain,DSM18205
 Segatella_sinica,Segatella_sinica_HDE06,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella sinica,HDE06,4260683,48.9,Segatella_sinica_HDE06,Type Strain,HDE06
 Segatella_brunsvicensis,Segatella_brunsvicensis_NI025,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brusvicensis,NI025,3694384,46.17,Segatella_brunsvicensis_NI025,Type Strain,NI025
 Segatella_brasiliensis,Segatella_brasiliensis_HDD05,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brasiliensis,HDD05,3991856,45.6,Segatella_brasiliensis_HDD05,Type Strain,HDD05
-Prevotella_stercorea,Prevotella stercorea DSM18206,NA,NA,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,NA,3097322,44.88,Prevotella_stercorea_DSM18206,Type Strain,NA
+Prevotella_stercorea,Prevotella stercorea DSM18206,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,DSM18206,3097322,44.88,Prevotella_stercorea_DSM18206,Type Strain,DSM18206
 DFI.2.31,Alistipes_finegoldii_DFI.2.31,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,DFI_2_31,3543707,57,NA,Biobank,DFI.2.31
 DFI.2.11,Alistipes_onderdonkii_DFI.2.11,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_2_11,3753254,58,NA,Biobank,DFI.2.11
 DFI.6.89,Alistipes_putredinis_DFI.6.89,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,DFI_6_89,2769186,53.5,NA,Biobank,DFI.6.89
