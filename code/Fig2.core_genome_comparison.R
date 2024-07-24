@@ -11,9 +11,6 @@ library(tidyverse)
 isolate_table <- read_csv("../data/genome.size.csv")
 
 gene_cluster_table <- read_csv("../data/Anvio_geneCluster.matrix.csv") %>% 
-  mutate(msk_id = str_replace(msk_id, "Prevotella_buccalis", "Hoylesella_buccalis"),
-         msk_id = str_replace(msk_id, "Prevotella_copri", "Segatella_copri"),
-         msk_id = str_replace(msk_id, "Prevotella_stercorea", "Leyella_stercorea")) %>% #Add new genus names for Prevotella
   pivot_longer(!msk_id, names_to = "gene_cluster_id", values_to = "gene_count") %>%
   left_join(isolate_table) %>% 
   mutate(cluster_presence = if_else(gene_count > 0, 1, 0))
@@ -64,7 +61,7 @@ gene_cluster_table <- gene_cluster_table %>%
 # plot core genome comparison --------------
 custom_color <- c("#1EB800", "#4F8FE6", "#A93400", "#2619D1", "#FFAB00", "#00CF91")
 
-gg <- gene_cluster_table %>% 
+gene_cluster_table %>% 
   mutate(level = str_to_title(level)) %>% 
   arrange(type, genome) %>% 
   mutate(label = factor(label, levels = unique(.$label))) %>% 
@@ -82,11 +79,11 @@ gg <- gene_cluster_table %>%
   guides(fill = guide_legend(title = "Taxonomy Level:",
                              keywidth = unit(1, "cm"),
                              keyheight = unit(1, "cm")), 
-         color = guide_legend(title = "type:",
+         color = guide_legend(title = "Cohort:",
                               override.aes = list(size=7),
                               keywidth = unit(1, "cm"),
                               keyheight = unit(1, "cm")),
-         shape = guide_legend(title = "type:",
+         shape = guide_legend(title = "Cohort:",
                               keywidth = unit(1, "cm"),
                               keyheight = unit(1, "cm"))) +
   theme_bw() +
