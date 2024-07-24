@@ -1,163 +1,163 @@
-msk_id,genome,order,family,genus,species,bp,GC,fn,type
-Alistipes_communis,Alistipes communis 5CBH24,Bacteroidales,Rikenellaceae,Alistipes,Alistipes communis,3301347,58.5,Alistipes_communis_5CBH24,Type Strain
-Alistipes_finegoldii,Alistipes finegoldii DSM17242,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,3734239,56.6,Alistipes_finegoldii_DSM17242,Type Strain
-Alistipes_onderdonkii,Alistipes onderdonkii WAL8169,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,3865648,57.8,Alistipes_onderdonkii_WAL8169,Type Strain
-Alistipes_putredinis,Alistipes putredinis DSM17216,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,2550678,53.3,Alistipes_putredinis_DSM17216,Type Strain
-Alistipes_shahii,Alistipes shahii WAL8301,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,3763317,55.8,Alistipes_shahii_WAL8301,Type Strain
-Bacteroides_caccae,Bacteroides caccae ATCC43185,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,4570803,41.9,Bacteroides_caccae_ATCC43185,Type Strain
-Bacteroides_cellulosilyticus,Bacteroides cellulosilyticus DSM14838,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,6870144,41.8,Bacteroides_cellulosilyticus_DSM14838,Type Strain
-Bacteroides_eggerthii,Bacteroides eggerthii DSM20697,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,4197635,44.2,Bacteroides_eggerthii_DSM20697,Type Strain
-Bacteroides_faecis,Bacteroides faecis MAJ27,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides faecis,5959374,42.4,Bacteroides_faecis_MAJ27,Type Strain
-Bacteroides_finegoldii,Bacteroides finegoldii DSM17565,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides finegoldii,4892401,42.8,Bacteroides_finegoldii_DSM17565,Type Strain
-Bacteroides_fragilis,Bacteroides fragilis NCTC9343,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5241700,43.1,Bacteroides_fragilis_NCTC9343,Type Strain
-Bacteroides_intestinalis,Bacteroides intestinalis DSM17393,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides intestinalis,6052596,42.8,Bacteroides_intestinalis_DSM17393,Type Strain
-Bacteroides_nordii,Bacteroides nordii FDAARGOS-1461,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,5678582,40.6,Bacteroides_nordii_FDAARGOS-1461,Type Strain
-Bacteroides_ovatus,Bacteroides ovatus ATCC8483,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,6472489,41.9,Bacteroides_ovatus_ATCC8483,Type Strain
-Bacteroides_salyersiae,Bacteroides salyersiae WAL10018,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae,5315450,41.9,Bacteroides_salyersiae_WAL10018,Type Strain
-Bacteroides_stercoris,Bacteroides stercoris ATCC43183,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,4009829,45.8,Bacteroides_stercoris_ATCC43183,Type Strain
-Bacteroides_thetaiotaomicron,Bacteroides thetaiotaomicron VPI-5482,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6293399,42.9,Bacteroides_thetaiotaomicron_VPI-5482,Type Strain
-Bacteroides_uniformis,Bacteroides uniformis ATCC8492,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4719097,46.4,Bacteroides_uniformis_ATCC8492,Type Strain
-Bacteroides_xylanisolvens,Bacteroides xylanisolvens XB1A,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,5976145,40.7,Bacteroides_xylanisolvens_XB1A,Type Strain
-Butyricimonas_paravirosa,Butyricimonas paravirosa DSM105722,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas paravirosa,5531556,42.8,Butyricimonas_paravirosa_DSM105722,Type Strain
-Butyricimonas_synergistica,Butyricimonas synergistica DSM23225,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas synergistica,4770838,44.8,Butyricimonas_synergistica_DSM23225,Type Strain
-Odoribacter_splanchnicus,Odoribacter splanchnicus DSM20712,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,4392288,43.4,Odoribacter_splanchnicus_DSM20712,Type Strain
-Parabacteroides_distasonis,Parabacteroides distasonis ATCC8503,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,4811379,45.1,Parabacteroides_distasonis_ATCC8503,Type Strain
-Parabacteroides_johnsonii,Parabacteroides johnsonii DSM18315,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides johnsonii,4787097,43.6,Parabacteroides_johnsonii_DSM18315,Type Strain
-Parabacteroides_merdae,Parabacteroides merdae ATCC43184,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,4433601,45.3,Parabacteroides_merdae_ATCC43184,Type Strain
-Phocaeicola_coprocola,Phocaeicola coprocola DSM17136,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola coprocola,4300117,41.8,Phocaeicola_coprocola_DSM17136,Type Strain
-Phocaeicola_dorei,Phocaeicola dorei DSM17855,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,5625488,42.1,Phocaeicola_dorei_DSM17855,Type Strain
-Phocaeicola_massiliensis,Phocaeicola massiliensis B84634,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola massiliensis,4646209,41.9,Phocaeicola_massiliensis_B84634,Type Strain
-Phocaeicola_vulgatus,Phocaeicola vulgatus ATCC8482,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5163189,42.2,Phocaeicola_vulgatus_ATCC8482,Type Strain
-Prevotella_buccalis,Prevotella buccalis ATCC35310,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,3033961,45.3,Prevotella_buccalis_ATCC35310,Type Strain
-Prevotella_copri,Prevotella copri DSM18205,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,3512473,44.8,Prevotella_copri_DSM18205,Type Strain
-Segatella_sinica,Segatella_sinica_HDE06,Bacteroidales,Bacteroidaceae,Segatella,Segatella sinica,4260683,48.9,Segatella_sinica_HDE06,Type Strain
-Segatella_brunsvicensis,Segatella_brunsvicensis_NI025,Bacteroidales,Bacteroidaceae,Segatella,Segatella brusvicensis,3694384,46.17,Segatella_brunsvicensis_NI025,Type Strain
-Segatella_brasiliensis,Segatella_brasiliensis_HDD05,Bacteroidales,Bacteroidaceae,Segatella,Segatella brasiliensis,3991856,45.6,Segatella_brasiliensis_HDD05,Type Strain
-Prevotella_stercorea,Prevotella stercorea DSM18206,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,3097322,44.88,Prevotella_stercorea_DSM18206,Type Strain
-DFI.2.31,Alistipes_finegoldii_DFI.2.31,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,3543707,57,NA,Biobank
-DFI.2.11,Alistipes_onderdonkii_DFI.2.11,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,3753254,58,NA,Biobank
-DFI.6.89,Alistipes_putredinis_DFI.6.89,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,2769186,53.5,NA,Biobank
-DFI.3.21,Bacteroides_caccae_DFI.3.21,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,5499091,42.5,NA,Biobank
-MSK.18.73,Bacteroides_caccae_MSK.18.73,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,5390815,42.5,NA,Biobank
-DFI.1.153,Bacteroides_cellulosilyticus_DFI.1.153,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,7174268,43,NA,Biobank
-MSK.18.67,Bacteroides_cellulosilyticus_MSK.18.67,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,6932134,43.5,NA,Biobank
-DFI.5.6,Bacteroides_eggerthii_DFI.5.6,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,4684885,45,NA,Biobank
-MSK.16.27,Bacteroides_eggerthii_MSK.16.27,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,3772604,44.5,NA,Biobank
-DFI.5.35,Bacteroides_fragilis_DFI.5.35,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5864163,43.5,NA,Biobank
-DFI.6.90,Bacteroides_fragilis_DFI.6.90,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5369603,43.5,NA,Biobank
-MSK.16.53,Bacteroides_fragilis_MSK.16.53,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5193175,43.5,NA,Biobank
-MSK.22.78,Bacteroides_fragilis_MSK.22.78,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5433156,43.5,NA,Biobank
-MSK.7.6,Bacteroides_fragilis_MSK.7.6,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5466060,43.5,NA,Biobank
-DFI.6.36,Bacteroides_intestinalis_DFI.6.36,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides intestinalis,6104941,42.5,NA,Biobank
-DFI.4.65,Bacteroides_salyersiae_DFI.4.65,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae,5765403,42,NA,Biobank
-MSK.18.83,Bacteroides_ovatus_MSK.18.83,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,7169981,42,NA,Biobank
-MSK.20.12,Bacteroides_xylanisolvens_MSK.20.12,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,6129424,42,NA,Biobank
-MSK.20.82,Bacteroides_thetaiotaomicron_MSK.20.82,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6877329,43,NA,Biobank
-MSK.18.9,Bacteroides_stercoris_MSK.18.9,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,3658602,46,NA,Biobank
-MSK.20.72,Bacteroides_stercoris_MSK.20.72,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,3706261,46,NA,Biobank
-DFI.1.148,Bacteroides_thetaiotaomicron_DFI.1.148,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6889710,43,NA,Biobank
-DFI.2.13,Bacteroides_thetaiotaomicron_DFI.2.13,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,5840348,43,NA,Biobank
-DFI.2.27,Bacteroides_thetaiotaomicron_DFI.2.27,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6869261,43,NA,Biobank
-DFI.3.6,Bacteroides_thetaiotaomicron_DFI.3.6,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6545977,43,NA,Biobank
-DFI.3.60B,Bacteroides_thetaiotaomicron_DFI.3.60B,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6280090,42.5,NA,Biobank
-DFI.4.151,Bacteroides_thetaiotaomicron_DFI.4.151,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6369263,43,NA,Biobank
-DFI.6.98,Bacteroides_thetaiotaomicron_DFI.6.98,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6755231,43,NA,Biobank
-MSK.14.51,Bacteroides_thetaiotaomicron_MSK.14.51,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6558392,42.5,NA,Biobank
-MSK.16.60,Bacteroides_thetaiotaomicron_MSK.16.60,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6539059,43,NA,Biobank
-MSK.23.45,Bacteroides_thetaiotaomicron_MSK.23.45,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6269851,43,NA,Biobank
-DFI.1.121,Bacteroides_uniformis_DFI.1.121,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,5192255,46,NA,Biobank
-DFI.4.120,Bacteroides_uniformis_DFI.4.120,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,5101239,46.5,NA,Biobank
-DFI.5.36,Bacteroides_uniformis_DFI.5.36,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,5101285,46,NA,Biobank
-DFI.6.25,Bacteroides_uniformis_DFI.6.25,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4849867,46,NA,Biobank
-DFI.6.83,Bacteroides_uniformis_DFI.6.83,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,5181874,46.5,NA,Biobank
-MSK.16.31,Bacteroides_uniformis_MSK.16.31,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4188401,46.5,NA,Biobank
-MSK.18.89,Bacteroides_uniformis_MSK.18.89,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4668867,46.5,NA,Biobank
-MSK.19.63,Bacteroides_uniformis_MSK.19.63,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4791633,46.5,NA,Biobank
-MSK.20.30,Bacteroides_uniformis_MSK.20.30,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4925684,46.5,NA,Biobank
-MSK.20.32,Bacteroides_uniformis_MSK.20.32,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4847425,46.5,NA,Biobank
-DFI.6.13,Bacteroides_xylanisolvens_DFI.6.13,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,6804044,42,NA,Biobank
-MSK.16.13,Bacteroides_ovatus_MSK.16.13,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,6900126,42.5,NA,Biobank
-DFI.1.156,Odoribacter_splanchnicus_DFI.1.156,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,4952372,43.5,NA,Biobank
-DFI.3.53,Odoribacter_splanchnicus_DFI.3.53,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,4715143,43.5,NA,Biobank
-DFI.1.37,Parabacteroides_distasonis_DFI.1.37,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5303844,45,NA,Biobank
-DFI.2.1,Parabacteroides_distasonis_DFI.2.1,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5295199,45,NA,Biobank
-DFI.3.8,Parabacteroides_distasonis_DFI.3.8,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5224523,45,NA,Biobank
-DFI.5.23,Parabacteroides_distasonis_DFI.5.23,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5475312,44.5,NA,Biobank
-DFI.1.92,Parabacteroides_merdae_DFI.1.92,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,5367630,45.5,NA,Biobank
-DFI.4.73,Parabacteroides_merdae_DFI.4.73,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,4743520,45.5,NA,Biobank
-MSK.16.37,Phocaeicola_coprocola_MSK.16.37,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola coprocola,4281931,42,NA,Biobank
-DFI.4.132,Phocaeicola_dorei_DFI.4.132,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,5456406,42,NA,Biobank
-DFI.7.53,Phocaeicola_dorei_DFI.7.53,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,5775252,42,NA,Biobank
-MSK.19.36,Phocaeicola_dorei_MSK.19.36,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,5403974,42,NA,Biobank
-DFI.1.83,Phocaeicola_vulgatus_DFI.1.83,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5448182,42,NA,Biobank
-DFI.3.92,Phocaeicola_vulgatus_DFI.3.92,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5799800,42.5,NA,Biobank
-DFI.3.23,Phocaeicola_vulgatus_DFI.3.23,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5297866,42,NA,Biobank
-DFI.3.65,Phocaeicola_vulgatus_DFI.3.65,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5050766,42,NA,Biobank
-DFI.4.135,Phocaeicola_vulgatus_DFI.4.135,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5288390,42.5,NA,Biobank
-DFI.6.64,Phocaeicola_vulgatus_DFI.6.64,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5209822,42.5,NA,Biobank
-DFI.6.58,Phocaeicola_vulgatus_DFI.6.58,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5316648,42,NA,Biobank
-DFI.9.54,Phocaeicola_vulgatus_DFI.9.54,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5184342,42,NA,Biobank
-DFI.9.71,Phocaeicola_vulgatus_DFI.9.71,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5136394,42.5,NA,Biobank
-MSK.15.52,Phocaeicola_vulgatus_MSK.15.52,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,4990890,42,NA,Biobank
-MSK.16.84,Phocaeicola_vulgatus_MSK.16.84,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5001267,42.5,NA,Biobank
-MSK.17.65,Phocaeicola_vulgatus_MSK.17.65,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5245881,42,NA,Biobank
-MSK.17.73,Phocaeicola_vulgatus_MSK.17.73,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5582650,42.5,NA,Biobank
-MSK.19.56,Phocaeicola_vulgatus_MSK.19.56,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,4568200,42.5,NA,Biobank
-MSK.19.45,Phocaeicola_vulgatus_MSK.19.45,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5249006,42.5,NA,Biobank
-MSK.20.28,Phocaeicola_vulgatus_MSK.20.28,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5544466,42.5,NA,Biobank
-MSK.23.53,Phocaeicola_vulgatus_MSK.23.53,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,4624284,42,NA,Biobank
-MSK.7.15,Phocaeicola_vulgatus_MSK.7.15,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5500183,42.5,NA,Biobank
-MSK.9.20,Phocaeicola_vulgatus_MSK.9.20,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5335520,42.5,NA,Biobank
-MSK.9.7,Phocaeicola_vulgatus_MSK.9.7,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5354974,42.5,NA,Biobank
-MSK.21.23,Leyella_stercorea_MSK.21.23,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,3287082,49.5,NA,Biobank
-DFI.6.39,Alistipes_communis_DFI.6.39,Bacteroidales,Rikenellaceae,Alistipes,Alistipes communis,3108539,58.5,NA,Biobank
-DFI.1.269,Alistipes_finegoldii_DFI.1.269,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,3577069,57,NA,Biobank
-DFI.6.32,Alistipes_finegoldii_DFI.6.32,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,3649809,56.5,NA,Biobank
-DFI.3.140,Alistipes_onderdonkii_DFI.3.140,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,3371000,58,NA,Biobank
-DFI.5.4,Alistipes_onderdonkii_DFI.5.4,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,3504289,57.5,NA,Biobank
-DFI.6.22,Alistipes_onderdonkii_DFI.6.22,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,3496945,58,NA,Biobank
-DFI.9.26,Alistipes_onderdonkii_DFI.9.26,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,4123846,58,NA,Biobank
-DFI.5.5,Alistipes_putredinis_DFI.5.5,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,2458158,53.5,NA,Biobank
-DFI.3.10,Alistipes_shahii_DFI.3.10,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,3718244,57,NA,Biobank
-DFI.6.6,Alistipes_shahii_DFI.6.6,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,3789119,57.5,NA,Biobank
-DFI.6.12,Bacteroides_caccae_DFI.6.12,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,5491395,42.5,NA,Biobank
-DFI.5.60,Bacteroides_cellulosilyticus_DFI.5.60,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,6946258,42.5,NA,Biobank
-DFI.9.15,Bacteroides_cellulosilyticus_DFI.9.15,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,6923323,43,NA,Biobank
-DFI.5.9,Bacteroides_faecis_DFI.5.9,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides faecis,6920090,42.5,NA,Biobank
-DFI.6.73,Bacteroides_finegoldii_DFI.6.73,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides finegoldii,5186489,43,NA,Biobank
-MSK.10.5,Bacteroides_fragilis_MSK.10.5,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,5100293,43,NA,Biobank
-MSK.13.23,Bacteroides_fragilis_MSK.13.23,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,4931551,43.5,NA,Biobank
-DFI.5.8,Bacteroides_nordii_DFI.5.8,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,5384369,40.5,NA,Biobank
-DFI.9.47,Bacteroides_nordii_DFI.9.47,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,5565118,40.5,NA,Biobank
-MSK.22.29,Bacteroides_ovatus_MSK.22.29,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,6453840,42,NA,Biobank
-MSK.17.76,Bacteroides_ovatus_MSK.17.76,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,6735198,42,NA,Biobank
-MSK.14.55,Bacteroides_stercoris_MSK.14.55,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,3363571,46,NA,Biobank
-MSK.17.12,Bacteroides_stercoris_MSK.17.12,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,4187309,45.5,NA,Biobank
-MSK.18.2,Bacteroides_thetaiotaomicron_MSK.18.2,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,6345572,43,NA,Biobank
-DFI.3.57,Bacteroides_uniformis_DFI.3.57,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4942867,46,NA,Biobank
-MSK.17.15,Bacteroides_uniformis_MSK.17.15,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,4531263,46,NA,Biobank
-DFI.5.11,Bacteroides_xylanisolvens_DFI.5.11,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,6509450,42,NA,Biobank
-MSK.17.2,Bacteroides_xylanisolvens_MSK.17.2,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,6652462,42,NA,Biobank
-MSK.19.24,Bacteroides_xylanisolvens_MSK.19.24,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,6159371,42,NA,Biobank
-DFI.9.33,Butyricimonas_paravirosa_DFI.9.33,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas paravirosa,5038870,43.5,NA,Biobank
-DFI.6.9,Butyricimonas_synergistica_DFI.6.9,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas synergistica,5466288,44.5,NA,Biobank
-DFI.9.51,Odoribacter_splanchnicus_DFI.9.51,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,4483669,43.5,NA,Biobank
-DFI.4.160,Parabacteroides_distasonis_DFI.4.160,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5689844,45,NA,Biobank
-DFI.6.54,Parabacteroides_distasonis_DFI.6.54,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5062375,45,NA,Biobank
-MSK.22.22,Parabacteroides_distasonis_MSK.22.22,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,5042968,45,NA,Biobank
-DFI.3.86,Parabacteroides_johnsonii_DFI.3.86,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides johnsonii,4630539,45,NA,Biobank
-MSK.9.14,Parabacteroides_merdae_MSK.9.14,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,5060818,45.5,NA,Biobank
-DFI.5.24,Phocaeicola_dorei_DFI.5.24,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,5524909,42,NA,Biobank
-MSK.20.40,Phocaeicola_massiliensis_MSK.20.40,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola massiliensis,4399990,43,NA,Biobank
-DFI.5.25,Phocaeicola_vulgatus_DFI.5.25,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5568381,42.5,NA,Biobank
-MSK.10.8,Phocaeicola_vulgatus_MSK.10.8,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,5135405,42,NA,Biobank
-MSK.6.33,Phocaeicola_vulgatus_MSK.6.33,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,4837999,42,NA,Biobank
-DFI.7.71,Hoylesella_buccalis_DFI.7.71,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,3152030,45.5,NA,Biobank
-MSK.10.30,Segatella_copri_MSK.10.30,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,3581005,45,NA,Biobank
-MSK.21.61,Segatella_copri_MSK.21.61,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,3762693,45,NA,Biobank
-MSK.21.28,Segatella_copri_MSK.21.28,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,3806865,45,NA,Biobank
-MSK.21.44,Segatella_sinica_MSK.21.44,Bacteroidales,Bacteroidaceae,Segatella,Segatella sinica,4205061,46,NA,Biobank
-MSK.21.56,Segatella_brusvicensis_MSK.21.56,Bacteroidales,Bacteroidaceae,Segatella,Segatella brusvicensis,3501268,45.5,NA,Biobank
-MSK.21.64,Segatella_brasiliensis_MSK.21.64,Bacteroidales,Bacteroidaceae,Segatella,Segatella brasiliensis,4058048,44.5,NA,Biobank
-MSK.21.66,Segatella_copri_MSK.21.66,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,4115854,45,NA,Biobank
-MSK.21.95,Segatella_copri_MSK.21.95,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,3884802,45,NA,Biobank
+msk_id,genome,phylum,class,order,family,genus,species,strain,bp,GC,fn,type,label
+Alistipes_communis,Alistipes communis 5CBH24,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes communis,5CBH24,3301347,58.5,Alistipes_communis_5CBH24,Type Strain,5CBH24
+Alistipes_finegoldii,Alistipes finegoldii DSM17242,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,DSM17242,3734239,56.6,Alistipes_finegoldii_DSM17242,Type Strain,DSM17242
+Alistipes_onderdonkii,Alistipes onderdonkii WAL8169,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,WAL8169,3865648,57.8,Alistipes_onderdonkii_WAL8169,Type Strain,WAL8169
+Alistipes_putredinis,Alistipes putredinis DSM17216,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,DSM17216,2550678,53.3,Alistipes_putredinis_DSM17216,Type Strain,DSM17216
+Alistipes_shahii,Alistipes shahii WAL8301,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,WAL8301,3763317,55.8,Alistipes_shahii_WAL8301,Type Strain,WAL8301
+Bacteroides_caccae,Bacteroides caccae ATCC43185,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,ATCC43185,4570803,41.9,Bacteroides_caccae_ATCC43185,Type Strain,ATCC43185
+Bacteroides_cellulosilyticus,Bacteroides cellulosilyticus DSM14838,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,DSM14838,6870144,41.8,Bacteroides_cellulosilyticus_DSM14838,Type Strain,DSM14838
+Bacteroides_eggerthii,Bacteroides eggerthii DSM20697,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,DSM20697,4197635,44.2,Bacteroides_eggerthii_DSM20697,Type Strain,DSM20697
+Bacteroides_faecis,Bacteroides faecis MAJ27,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides faecis,MAJ27,5959374,42.4,Bacteroides_faecis_MAJ27,Type Strain,MAJ27
+Bacteroides_finegoldii,Bacteroides finegoldii DSM17565,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides finegoldii,DSM17565,4892401,42.8,Bacteroides_finegoldii_DSM17565,Type Strain,DSM17565
+Bacteroides_fragilis,Bacteroides fragilis NCTC9343,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,NCTC9343,5241700,43.1,Bacteroides_fragilis_NCTC9343,Type Strain,NCTC9343
+Bacteroides_intestinalis,Bacteroides intestinalis DSM17393,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides intestinalis,DSM17393,6052596,42.8,Bacteroides_intestinalis_DSM17393,Type Strain,DSM17393
+Bacteroides_nordii,Bacteroides nordii FDAARGOS-1461,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,FDAARGOS_1461,5678582,40.6,Bacteroides_nordii_FDAARGOS-1461,Type Strain,FDAARGOS_1461
+Bacteroides_ovatus,Bacteroides ovatus ATCC8483,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,ATCC8483,6472489,41.9,Bacteroides_ovatus_ATCC8483,Type Strain,ATCC8483
+Bacteroides_salyersiae,Bacteroides salyersiae WAL10018,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae,WAL10018,5315450,41.9,Bacteroides_salyersiae_WAL10018,Type Strain,WAL10018
+Bacteroides_stercoris,Bacteroides stercoris ATCC43183,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,ATCC43183,4009829,45.8,Bacteroides_stercoris_ATCC43183,Type Strain,ATCC43183
+Bacteroides_thetaiotaomicron,Bacteroides thetaiotaomicron VPI-5482,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,VPI_5482,6293399,42.9,Bacteroides_thetaiotaomicron_VPI-5482,Type Strain,VPI_5482
+Bacteroides_uniformis,Bacteroides uniformis ATCC8492,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,ATCC8492,4719097,46.4,Bacteroides_uniformis_ATCC8492,Type Strain,ATCC8492
+Bacteroides_xylanisolvens,Bacteroides xylanisolvens XB1A,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,XB1A,5976145,40.7,Bacteroides_xylanisolvens_XB1A,Type Strain,XB1A
+Butyricimonas_paravirosa,Butyricimonas paravirosa DSM105722,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas paravirosa,DSM105722,5531556,42.8,Butyricimonas_paravirosa_DSM105722,Type Strain,DSM105722
+Butyricimonas_synergistica,Butyricimonas synergistica DSM23225,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas synergistica,DSM23225,4770838,44.8,Butyricimonas_synergistica_DSM23225,Type Strain,DSM23225
+Odoribacter_splanchnicus,Odoribacter splanchnicus DSM20712,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,DSM20712,4392288,43.4,Odoribacter_splanchnicus_DSM20712,Type Strain,DSM20712
+Parabacteroides_distasonis,Parabacteroides distasonis ATCC8503,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,ATCC8503,4811379,45.1,Parabacteroides_distasonis_ATCC8503,Type Strain,ATCC8503
+Parabacteroides_johnsonii,Parabacteroides johnsonii DSM18315,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides johnsonii,DSM18315,4787097,43.6,Parabacteroides_johnsonii_DSM18315,Type Strain,DSM18315
+Parabacteroides_merdae,Parabacteroides merdae ATCC43184,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,ATCC43184,4433601,45.3,Parabacteroides_merdae_ATCC43184,Type Strain,ATCC43184
+Phocaeicola_coprocola,Phocaeicola coprocola DSM17136,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola coprocola,DSM17136,4300117,41.8,Phocaeicola_coprocola_DSM17136,Type Strain,DSM17136
+Phocaeicola_dorei,Phocaeicola dorei DSM17855,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,DSM17855,5625488,42.1,Phocaeicola_dorei_DSM17855,Type Strain,DSM17855
+Phocaeicola_massiliensis,Phocaeicola massiliensis B84634,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola massiliensis,B84634,4646209,41.9,Phocaeicola_massiliensis_B84634,Type Strain,B84634
+Phocaeicola_vulgatus,Phocaeicola vulgatus ATCC8482,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,ATCC8482,5163189,42.2,Phocaeicola_vulgatus_ATCC8482,Type Strain,ATCC8482
+Prevotella_buccalis,Prevotella buccalis ATCC35310,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,ATCC35310,3033961,45.3,Prevotella_buccalis_ATCC35310,Type Strain,ATCC35310
+Prevotella_copri,Prevotella copri DSM18205,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,DSM18205,3512473,44.8,Prevotella_copri_DSM18205,Type Strain,DSM18205
+Segatella_sinica,Segatella_sinica_HDE06,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella sinica,HDE06,4260683,48.9,Segatella_sinica_HDE06,Type Strain,HDE06
+Segatella_brunsvicensis,Segatella_brunsvicensis_NI025,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brusvicensis,NI025,3694384,46.17,Segatella_brunsvicensis_NI025,Type Strain,NI025
+Segatella_brasiliensis,Segatella_brasiliensis_HDD05,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brasiliensis,HDD05,3991856,45.6,Segatella_brasiliensis_HDD05,Type Strain,HDD05
+Prevotella_stercorea,Prevotella stercorea DSM18206,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,DSM18206,3097322,44.88,Prevotella_stercorea_DSM18206,Type Strain,DSM18206
+DFI.2.31,Alistipes_finegoldii_DFI.2.31,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,DFI_2_31,3543707,57,NA,Biobank,DFI.2.31
+DFI.2.11,Alistipes_onderdonkii_DFI.2.11,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_2_11,3753254,58,NA,Biobank,DFI.2.11
+DFI.6.89,Alistipes_putredinis_DFI.6.89,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,DFI_6_89,2769186,53.5,NA,Biobank,DFI.6.89
+DFI.3.21,Bacteroides_caccae_DFI.3.21,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,DFI_3_21,5499091,42.5,NA,Biobank,DFI.3.21
+MSK.18.73,Bacteroides_caccae_MSK.18.73,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,MSK_18_73,5390815,42.5,NA,Biobank,MSK.18.73
+DFI.1.153,Bacteroides_cellulosilyticus_DFI.1.153,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,DFI_1_153,7174268,43,NA,Biobank,DFI.1.153
+MSK.18.67,Bacteroides_cellulosilyticus_MSK.18.67,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,MSK_18_67,6932134,43.5,NA,Biobank,MSK.18.67
+DFI.5.6,Bacteroides_eggerthii_DFI.5.6,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,DFI_5_6,4684885,45,NA,Biobank,DFI.5.6
+MSK.16.27,Bacteroides_eggerthii_MSK.16.27,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides eggerthii,MSK_16_27,3772604,44.5,NA,Biobank,MSK.16.27
+DFI.5.35,Bacteroides_fragilis_DFI.5.35,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,DFI_5_35,5864163,43.5,NA,Biobank,DFI.5.35
+DFI.6.90,Bacteroides_fragilis_DFI.6.90,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,DFI_6_90,5369603,43.5,NA,Biobank,DFI.6.90
+MSK.16.53,Bacteroides_fragilis_MSK.16.53,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,MSK_16_53,5193175,43.5,NA,Biobank,MSK.16.53
+MSK.22.78,Bacteroides_fragilis_MSK.22.78,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,MSK_22_78,5433156,43.5,NA,Biobank,MSK.22.78
+MSK.7.6,Bacteroides_fragilis_MSK.7.6,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,MSK_7_6,5466060,43.5,NA,Biobank,MSK.7.6
+DFI.6.36,Bacteroides_intestinalis_DFI.6.36,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides intestinalis,DFI_6_36,6104941,42.5,NA,Biobank,DFI.6.36
+DFI.4.65,Bacteroides_salyersiae_DFI.4.65,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae,DFI_4_65,5765403,42,NA,Biobank,DFI.4.65
+MSK.18.83,Bacteroides_ovatus_MSK.18.83,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,MSK_18_83,7169981,42,NA,Biobank,MSK.18.83
+MSK.20.12,Bacteroides_xylanisolvens_MSK.20.12,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,MSK_20_12,6129424,42,NA,Biobank,MSK.20.12
+MSK.20.82,Bacteroides_thetaiotaomicron_MSK.20.82,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,MSK_20_82,6877329,43,NA,Biobank,MSK.20.82
+MSK.18.9,Bacteroides_stercoris_MSK.18.9,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,MSK_18_9,3658602,46,NA,Biobank,MSK.18.9
+MSK.20.72,Bacteroides_stercoris_MSK.20.72,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,MSK_20_72,3706261,46,NA,Biobank,MSK.20.72
+DFI.1.148,Bacteroides_thetaiotaomicron_DFI.1.148,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_1_148,6889710,43,NA,Biobank,DFI.1.148
+DFI.2.13,Bacteroides_thetaiotaomicron_DFI.2.13,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_2_13,5840348,43,NA,Biobank,DFI.2.13
+DFI.2.27,Bacteroides_thetaiotaomicron_DFI.2.27,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_2_27,6869261,43,NA,Biobank,DFI.2.27
+DFI.3.6,Bacteroides_thetaiotaomicron_DFI.3.6,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_3_6,6545977,43,NA,Biobank,DFI.3.6
+DFI.3.60B,Bacteroides_thetaiotaomicron_DFI.3.60B,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_3_60B,6280090,42.5,NA,Biobank,DFI.3.60B
+DFI.4.151,Bacteroides_thetaiotaomicron_DFI.4.151,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_4_151,6369263,43,NA,Biobank,DFI.4.151
+DFI.6.98,Bacteroides_thetaiotaomicron_DFI.6.98,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,DFI_6_98,6755231,43,NA,Biobank,DFI.6.98
+MSK.14.51,Bacteroides_thetaiotaomicron_MSK.14.51,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,MSK_14_51,6558392,42.5,NA,Biobank,MSK.14.51
+MSK.16.60,Bacteroides_thetaiotaomicron_MSK.16.60,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,MSK_16_60,6539059,43,NA,Biobank,MSK.16.60
+MSK.23.45,Bacteroides_thetaiotaomicron_MSK.23.45,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,MSK_23_45,6269851,43,NA,Biobank,MSK.23.45
+DFI.1.121,Bacteroides_uniformis_DFI.1.121,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_1_121,5192255,46,NA,Biobank,DFI.1.121
+DFI.4.120,Bacteroides_uniformis_DFI.4.120,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_4_120,5101239,46.5,NA,Biobank,DFI.4.120
+DFI.5.36,Bacteroides_uniformis_DFI.5.36,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_5_36,5101285,46,NA,Biobank,DFI.5.36
+DFI.6.25,Bacteroides_uniformis_DFI.6.25,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_6_25,4849867,46,NA,Biobank,DFI.6.25
+DFI.6.83,Bacteroides_uniformis_DFI.6.83,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_6_83,5181874,46.5,NA,Biobank,DFI.6.83
+MSK.16.31,Bacteroides_uniformis_MSK.16.31,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_16_31,4188401,46.5,NA,Biobank,MSK.16.31
+MSK.18.89,Bacteroides_uniformis_MSK.18.89,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_18_89,4668867,46.5,NA,Biobank,MSK.18.89
+MSK.19.63,Bacteroides_uniformis_MSK.19.63,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_19_63,4791633,46.5,NA,Biobank,MSK.19.63
+MSK.20.30,Bacteroides_uniformis_MSK.20.30,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_20_30,4925684,46.5,NA,Biobank,MSK.20.30
+MSK.20.32,Bacteroides_uniformis_MSK.20.32,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_20_32,4847425,46.5,NA,Biobank,MSK.20.32
+DFI.6.13,Bacteroides_xylanisolvens_DFI.6.13,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,DFI_6_13,6804044,42,NA,Biobank,DFI.6.13
+MSK.16.13,Bacteroides_ovatus_MSK.16.13,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,MSK_16_13,6900126,42.5,NA,Biobank,MSK.16.13
+DFI.1.156,Odoribacter_splanchnicus_DFI.1.156,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,DFI_1_156,4952372,43.5,NA,Biobank,DFI.1.156
+DFI.3.53,Odoribacter_splanchnicus_DFI.3.53,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,DFI_3_53,4715143,43.5,NA,Biobank,DFI.3.53
+DFI.1.37,Parabacteroides_distasonis_DFI.1.37,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_1_37,5303844,45,NA,Biobank,DFI.1.37
+DFI.2.1,Parabacteroides_distasonis_DFI.2.1,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_2_1,5295199,45,NA,Biobank,DFI.2.1
+DFI.3.8,Parabacteroides_distasonis_DFI.3.8,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_3_8,5224523,45,NA,Biobank,DFI.3.8
+DFI.5.23,Parabacteroides_distasonis_DFI.5.23,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_5_23,5475312,44.5,NA,Biobank,DFI.5.23
+DFI.1.92,Parabacteroides_merdae_DFI.1.92,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,DFI_1_92,5367630,45.5,NA,Biobank,DFI.1.92
+DFI.4.73,Parabacteroides_merdae_DFI.4.73,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,DFI_4_73,4743520,45.5,NA,Biobank,DFI.4.73
+MSK.16.37,Phocaeicola_coprocola_MSK.16.37,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola coprocola,MSK_16_37,4281931,42,NA,Biobank,MSK.16.37
+DFI.4.132,Phocaeicola_dorei_DFI.4.132,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,DFI_4_132,5456406,42,NA,Biobank,DFI.4.132
+DFI.7.53,Phocaeicola_dorei_DFI.7.53,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,DFI_7_53,5775252,42,NA,Biobank,DFI.7.53
+MSK.19.36,Phocaeicola_dorei_MSK.19.36,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,MSK_19_36,5403974,42,NA,Biobank,MSK.19.36
+DFI.1.83,Phocaeicola_vulgatus_DFI.1.83,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_1_83,5448182,42,NA,Biobank,DFI.1.83
+DFI.3.92,Phocaeicola_vulgatus_DFI.3.92,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_3_92,5799800,42.5,NA,Biobank,DFI.3.92
+DFI.3.23,Phocaeicola_vulgatus_DFI.3.23,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_3_23,5297866,42,NA,Biobank,DFI.3.23
+DFI.3.65,Phocaeicola_vulgatus_DFI.3.65,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_3_65,5050766,42,NA,Biobank,DFI.3.65
+DFI.4.135,Phocaeicola_vulgatus_DFI.4.135,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_4_135,5288390,42.5,NA,Biobank,DFI.4.135
+DFI.6.64,Phocaeicola_vulgatus_DFI.6.64,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_6_64,5209822,42.5,NA,Biobank,DFI.6.64
+DFI.6.58,Phocaeicola_vulgatus_DFI.6.58,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_6_58,5316648,42,NA,Biobank,DFI.6.58
+DFI.9.54,Phocaeicola_vulgatus_DFI.9.54,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_9_54,5184342,42,NA,Biobank,DFI.9.54
+DFI.9.71,Phocaeicola_vulgatus_DFI.9.71,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_9_71,5136394,42.5,NA,Biobank,DFI.9.71
+MSK.15.52,Phocaeicola_vulgatus_MSK.15.52,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_15_52,4990890,42,NA,Biobank,MSK.15.52
+MSK.16.84,Phocaeicola_vulgatus_MSK.16.84,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_16_84,5001267,42.5,NA,Biobank,MSK.16.84
+MSK.17.65,Phocaeicola_vulgatus_MSK.17.65,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_17_65,5245881,42,NA,Biobank,MSK.17.65
+MSK.17.73,Phocaeicola_vulgatus_MSK.17.73,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_17_73,5582650,42.5,NA,Biobank,MSK.17.73
+MSK.19.56,Phocaeicola_vulgatus_MSK.19.56,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_19_56,4568200,42.5,NA,Biobank,MSK.19.56
+MSK.19.45,Phocaeicola_vulgatus_MSK.19.45,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_19_45,5249006,42.5,NA,Biobank,MSK.19.45
+MSK.20.28,Phocaeicola_vulgatus_MSK.20.28,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_20_28,5544466,42.5,NA,Biobank,MSK.20.28
+MSK.23.53,Phocaeicola_vulgatus_MSK.23.53,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_23_53,4624284,42,NA,Biobank,MSK.23.53
+MSK.7.15,Phocaeicola_vulgatus_MSK.7.15,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_7_15,5500183,42.5,NA,Biobank,MSK.7.15
+MSK.9.20,Phocaeicola_vulgatus_MSK.9.20,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_9_20,5335520,42.5,NA,Biobank,MSK.9.20
+MSK.9.7,Phocaeicola_vulgatus_MSK.9.7,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_9_7,5354974,42.5,NA,Biobank,MSK.9.7
+MSK.21.23,Leyella_stercorea_MSK.21.23,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Leyella,Leyella stercorea,MSK_21_23,3287082,49.5,NA,Biobank,MSK.21.23
+DFI.6.39,Alistipes_communis_DFI.6.39,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes communis,DFI_6_39,3108539,58.5,NA,Biobank,DFI.6.39
+DFI.1.269,Alistipes_finegoldii_DFI.1.269,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,DFI_1_269,3577069,57,NA,Biobank,DFI.1.269
+DFI.6.32,Alistipes_finegoldii_DFI.6.32,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii,DFI_6_32,3649809,56.5,NA,Biobank,DFI.6.32
+DFI.3.140,Alistipes_onderdonkii_DFI.3.140,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_3_140,3371000,58,NA,Biobank,DFI.3.140
+DFI.5.4,Alistipes_onderdonkii_DFI.5.4,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_5_4,3504289,57.5,NA,Biobank,DFI.5.4
+DFI.6.22,Alistipes_onderdonkii_DFI.6.22,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_6_22,3496945,58,NA,Biobank,DFI.6.22
+DFI.9.26,Alistipes_onderdonkii_DFI.9.26,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii,DFI_9_26,4123846,58,NA,Biobank,DFI.9.26
+DFI.5.5,Alistipes_putredinis_DFI.5.5,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes putredinis,DFI_5_5,2458158,53.5,NA,Biobank,DFI.5.5
+DFI.3.10,Alistipes_shahii_DFI.3.10,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,DFI_3_10,3718244,57,NA,Biobank,DFI.3.10
+DFI.6.6,Alistipes_shahii_DFI.6.6,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes shahii,DFI_6_6,3789119,57.5,NA,Biobank,DFI.6.6
+DFI.6.12,Bacteroides_caccae_DFI.6.12,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae,DFI_6_12,5491395,42.5,NA,Biobank,DFI.6.12
+DFI.5.60,Bacteroides_cellulosilyticus_DFI.5.60,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,DFI_5_60,6946258,42.5,NA,Biobank,DFI.5.60
+DFI.9.15,Bacteroides_cellulosilyticus_DFI.9.15,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,DFI_9_15,6923323,43,NA,Biobank,DFI.9.15
+DFI.5.9,Bacteroides_faecis_DFI.5.9,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides faecis,DFI_5_9,6920090,42.5,NA,Biobank,DFI.5.9
+DFI.6.73,Bacteroides_finegoldii_DFI.6.73,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides finegoldii,DFI_6_73,5186489,43,NA,Biobank,DFI.6.73
+MSK.10.5,Bacteroides_fragilis_MSK.10.5,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,MSK_10_5,5100293,43,NA,Biobank,MSK.10.5
+MSK.13.23,Bacteroides_fragilis_MSK.13.23,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,MSK_13_23,4931551,43.5,NA,Biobank,MSK.13.23
+DFI.5.8,Bacteroides_nordii_DFI.5.8,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,DFI_5_8,5384369,40.5,NA,Biobank,DFI.5.8
+DFI.9.47,Bacteroides_nordii_DFI.9.47,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii,DFI_9_47,5565118,40.5,NA,Biobank,DFI.9.47
+MSK.22.29,Bacteroides_ovatus_MSK.22.29,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,MSK_22_29,6453840,42,NA,Biobank,MSK.22.29
+MSK.17.76,Bacteroides_ovatus_MSK.17.76,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus,MSK_17_76,6735198,42,NA,Biobank,MSK.17.76
+MSK.14.55,Bacteroides_stercoris_MSK.14.55,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,MSK_14_55,3363571,46,NA,Biobank,MSK.14.55
+MSK.17.12,Bacteroides_stercoris_MSK.17.12,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris,MSK_17_12,4187309,45.5,NA,Biobank,MSK.17.12
+MSK.18.2,Bacteroides_thetaiotaomicron_MSK.18.2,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,MSK_18_2,6345572,43,NA,Biobank,MSK.18.2
+DFI.3.57,Bacteroides_uniformis_DFI.3.57,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,DFI_3_57,4942867,46,NA,Biobank,DFI.3.57
+MSK.17.15,Bacteroides_uniformis_MSK.17.15,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis,MSK_17_15,4531263,46,NA,Biobank,MSK.17.15
+DFI.5.11,Bacteroides_xylanisolvens_DFI.5.11,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,DFI_5_11,6509450,42,NA,Biobank,DFI.5.11
+MSK.17.2,Bacteroides_xylanisolvens_MSK.17.2,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,MSK_17_2,6652462,42,NA,Biobank,MSK.17.2
+MSK.19.24,Bacteroides_xylanisolvens_MSK.19.24,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens,MSK_19_24,6159371,42,NA,Biobank,MSK.19.24
+DFI.9.33,Butyricimonas_paravirosa_DFI.9.33,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas paravirosa,DFI_9_33,5038870,43.5,NA,Biobank,DFI.9.33
+DFI.6.9,Butyricimonas_synergistica_DFI.6.9,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,Butyricimonas synergistica,DFI_6_9,5466288,44.5,NA,Biobank,DFI.6.9
+DFI.9.51,Odoribacter_splanchnicus_DFI.9.51,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,Odoribacter splanchnicus,DFI_9_51,4483669,43.5,NA,Biobank,DFI.9.51
+DFI.4.160,Parabacteroides_distasonis_DFI.4.160,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_4_160,5689844,45,NA,Biobank,DFI.4.160
+DFI.6.54,Parabacteroides_distasonis_DFI.6.54,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,DFI_6_54,5062375,45,NA,Biobank,DFI.6.54
+MSK.22.22,Parabacteroides_distasonis_MSK.22.22,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,MSK_22_22,5042968,45,NA,Biobank,MSK.22.22
+DFI.3.86,Parabacteroides_johnsonii_DFI.3.86,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides johnsonii,DFI_3_86,4630539,45,NA,Biobank,DFI.3.86
+MSK.9.14,Parabacteroides_merdae_MSK.9.14,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae,MSK_9_14,5060818,45.5,NA,Biobank,MSK.9.14
+DFI.5.24,Phocaeicola_dorei_DFI.5.24,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei,DFI_5_24,5524909,42,NA,Biobank,DFI.5.24
+MSK.20.40,Phocaeicola_massiliensis_MSK.20.40,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola massiliensis,MSK_20_40,4399990,43,NA,Biobank,MSK.20.40
+DFI.5.25,Phocaeicola_vulgatus_DFI.5.25,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,DFI_5_25,5568381,42.5,NA,Biobank,DFI.5.25
+MSK.10.8,Phocaeicola_vulgatus_MSK.10.8,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_10_8,5135405,42,NA,Biobank,MSK.10.8
+MSK.6.33,Phocaeicola_vulgatus_MSK.6.33,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus,MSK_6_33,4837999,42,NA,Biobank,MSK.6.33
+DFI.7.71,Hoylesella_buccalis_DFI.7.71,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Hoylesella,Hoylesella buccalis,DFI_7_71,3152030,45.5,NA,Biobank,DFI.7.71
+MSK.10.30,Segatella_copri_MSK.10.30,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,MSK_10_30,3581005,45,NA,Biobank,MSK.10.30
+MSK.21.61,Segatella_copri_MSK.21.61,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,MSK_21_61,3762693,45,NA,Biobank,MSK.21.61
+MSK.21.28,Segatella_copri_MSK.21.28,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,MSK_21_28,3806865,45,NA,Biobank,MSK.21.28
+MSK.21.44,Segatella_sinica_MSK.21.44,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella sinica,MSK_21_44,4205061,46,NA,Biobank,MSK.21.44
+MSK.21.56,Segatella_brusvicensis_MSK.21.56,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brusvicensis,MSK_21_56,3501268,45.5,NA,Biobank,MSK.21.56
+MSK.21.64,Segatella_brasiliensis_MSK.21.64,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella brasiliensis,MSK_21_64,4058048,44.5,NA,Biobank,MSK.21.64
+MSK.21.66,Segatella_copri_MSK.21.66,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,MSK_21_66,4115854,45,NA,Biobank,MSK.21.66
+MSK.21.95,Segatella_copri_MSK.21.95,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Segatella,Segatella copri,MSK_21_95,3884802,45,NA,Biobank,MSK.21.95
